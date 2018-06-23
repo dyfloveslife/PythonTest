@@ -115,3 +115,90 @@ import math
 # print('The value of PI is a approximately %1.3f' % math.pi)
 
 '''从7.2开始'''
+# f = open(r'F:\Python_test\1.txt', 'r')
+# print(f.readline())
+# for line in f:
+#     print(line, end='')
+# f = open('1.txt', 'w')
+# print(f.write('This is a test\n'))
+
+# f = open('1.txt', 'w')
+# value = ('the answer', 42)
+# s = str(value)
+# print(f.write(s))
+
+# f = open('1.txt', 'rb+')
+# f.write(b'0123456789abcdef')
+# a = f.seek(-3, 2)
+# print(f.read(1))
+# f.close()
+# f.read()
+
+# f = open('1.txt', 'rb+')
+# with open('1.txt', 'r') as f:
+#     read_data = f.read()
+# f.close()
+# print(f)
+
+# while True:
+#     try:
+#         x = int(input("Please enter a number:"))
+#         break
+#     except ValueError:
+#         print("Oops!That was no valid number.Try angin...")
+# import sys
+#
+# try:
+#     f = open('myfile.txt')
+#     s = f.readline()
+#     i = int(s.strip())
+# except OSError as err:
+#     print("OS err:{0}".format(err))
+# except ValueError:
+#     print("Could not convert data to an integer.")
+# except:
+#     print("Unexpected error:", sys.exc_info()[0])
+#     raise
+'''异常处理'''
+
+
+# try:
+#     1 / 1
+# except Exception as e:
+#     print("0不能被除")
+# else:
+#     print("没有异常")
+# finally:
+#     print("最后总是要执行我")
+
+
+# def try_exception(num):
+#     try:
+#         return int(num)
+#     except ValueError as arg:
+#         # print("This {0} is not a number".format(arg))
+#         print(arg, "is not a number.")
+#     else:
+#         print("This is a number.")
+# try_exception('xxx')
+
+# try:
+#     raise Exception('spam', 'eggs')
+# except Exception as inst:
+#     print(type(inst))
+#     print(inst.args)
+#     print(inst)
+#     x, y = inst.args
+#     print('x =', x)
+#     print('y =', y)
+
+def this_fails():
+    x = 1 / 0
+
+
+try:
+    this_fails()
+except ZeroDivisionError as err:
+    print('Handling run-time error.', err)
+
+'''从8。4开始'''
