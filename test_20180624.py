@@ -95,14 +95,14 @@ func()
 '''
 
 
-def func():
-    count = 1
-    def foo():
-        nonlocal count
-        count = 12
-    foo()
-    print(count)
-func()
+# def func():
+#     count = 1
+#     def foo():
+#         nonlocal count
+#         count = 12
+#     foo()
+#     print(count)
+# func()
 
 # def scope_test():
 #     def do_local():
