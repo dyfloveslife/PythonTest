@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e745a1eb-efba-4c60-88b4-8f2d7c7eff49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_20180624-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_20180624-1.py" afterDir="false" />
-    </list>
+    <list default="true" id="e745a1eb-efba-4c60-88b4-8f2d7c7eff49" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,20 +14,31 @@
     <SUITE FILE_PATH="coverage/Python_test$test_20180623.coverage" NAME="test_20180623 Coverage Results" MODIFIED="1529802862867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180622.coverage" NAME="test_20180622 Coverage Results" MODIFIED="1529714050169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180624.coverage" NAME="test_20180624 Coverage Results" MODIFIED="1529890467620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_test$test_20180626.coverage" NAME="test_20180626 Coverage Results" MODIFIED="1529982835490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$fibo.coverage" NAME="fibo Coverage Results" MODIFIED="1529715531500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_test$test_20180625.coverage" NAME="test_20180625 Coverage Results" MODIFIED="1529917254545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_test$test_20180625.coverage" NAME="test_20180625 Coverage Results" MODIFIED="1529976625052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_20180625.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_20180625.py">
+      <file leaf-file-name="test_20180626.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_20180626.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="70" column="20" lean-forward="true" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+            <state relative-caret-position="135">
+              <caret line="154" column="37" lean-forward="true" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
               <folding>
-                <element signature="n#!!doc" />
-                <element signature="e#224#240#0" />
-                <element signature="e#926#938#0" />
+                <element signature="e#0#294#1" />
+                <element signature="e#147#175#0" />
+                <element signature="e#147#175#0" />
+                <element signature="e#577#585#1" />
+                <element signature="e#956#1008#0" />
+                <element signature="e#956#1008#0" />
+                <element signature="e#956#1008#0" />
+                <element signature="e#958#1010#0" />
+                <element signature="e#958#1010#0" />
+                <element signature="e#3088#3110#0" />
+                <element signature="e#3089#3111#0" />
+                <marker date="1529983044568" expanded="false" signature="1569:1611" ph="..." />
+                <marker date="1529983044568" expanded="false" signature="1639:1688" ph="..." />
               </folding>
             </state>
           </provider>
@@ -59,6 +67,8 @@
         <option value="$PROJECT_DIR$/test_20180624.py" />
         <option value="$PROJECT_DIR$/test_20180624-1.py" />
         <option value="$PROJECT_DIR$/test_20180625.py" />
+        <option value="$PROJECT_DIR$/abstest.py" />
+        <option value="$PROJECT_DIR$/test_20180626.py" />
       </list>
     </option>
   </component>
@@ -118,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_20180625">
+  <component name="RunManager" selected="Python.test_20180626">
     <configuration name="fibo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,25 +143,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test_20180622" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_20180622.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,20 +205,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test_20180626" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_20180626.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.test_20180622" />
       <item itemvalue="Python.test_20180623" />
       <item itemvalue="Python.fibo" />
       <item itemvalue="Python.test_20180624" />
       <item itemvalue="Python.test_20180625" />
+      <item itemvalue="Python.test_20180626" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_20180626" />
         <item itemvalue="Python.test_20180625" />
         <item itemvalue="Python.test_20180624" />
         <item itemvalue="Python.test_20180623" />
         <item itemvalue="Python.fibo" />
-        <item itemvalue="Python.test_20180622" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +303,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_20180625.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="70" column="20" lean-forward="true" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_20180625.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="n#!!doc" />
-            <element signature="e#224#240#0" />
-            <element signature="e#926#938#0" />
           </folding>
         </state>
       </provider>
@@ -401,12 +419,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_20180625.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="70" column="20" lean-forward="true" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+        <state relative-caret-position="196">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" />
-            <element signature="e#224#240#0" />
-            <element signature="e#926#938#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_20180626.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="154" column="37" lean-forward="true" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#294#1" />
+            <element signature="e#147#175#0" />
+            <element signature="e#147#175#0" />
+            <element signature="e#577#585#1" />
+            <element signature="e#956#1008#0" />
+            <element signature="e#956#1008#0" />
+            <element signature="e#956#1008#0" />
+            <element signature="e#958#1010#0" />
+            <element signature="e#958#1010#0" />
+            <element signature="e#3088#3110#0" />
+            <element signature="e#3089#3111#0" />
+            <marker date="1529983044568" expanded="false" signature="1569:1611" ph="..." />
+            <marker date="1529983044568" expanded="false" signature="1639:1688" ph="..." />
           </folding>
         </state>
       </provider>
