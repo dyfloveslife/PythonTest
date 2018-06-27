@@ -32,7 +32,6 @@
 参数定义的顺序必须是：必选参数、默认参数、可变参数、命名关键字参数和关键字参数。
 '''
 
-
 # def f1(a, b, c=0, *args, **kw):
 #     print('a =', a, 'b = ', b, 'c =', c, 'args =', args, 'kw =', kw)
 #
@@ -79,3 +78,36 @@
 # move(3, 'A', 'B', 'C')
 
 '''切片'''
+# L = ['Michael', 'Sarah', 'Tracy', 'Bob', 'Jack']
+# r = []
+# n = 3
+# for i in range(n):
+#     r.append(L[i])
+# print(r)
+# print(L[0:3])  # 不包括索引3
+# print(L[1:3])
+# print(L[-2:-1])
+# L = list(range(100))
+# print(L)
+# print(L[:])
+
+# L = (0, 1, 2, 3, 4, 5)
+# print(L[1:3])
+
+# def trim(s):
+#     while s[:1] == ' ':
+#         s = s[1:]
+#     while s[-1:] == ' ':
+#         s = s[:-1]
+#     return s
+# print(trim('hello   '))
+# print(trim('  hello'))
+# print(trim('  hello  world   '))
+
+
+# L = ['a', 'b', 'c', 'd', 'e', 'f']
+# print(L[:1])  # 不包括索引1的数
+# print(L[1:])
+# print(L[-1:])
+# print(L[:-1])
+'''迭代'''
