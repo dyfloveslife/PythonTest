@@ -80,20 +80,22 @@
 '''切片'''
 # L = ['Michael', 'Sarah', 'Tracy', 'Bob', 'Jack']
 # r = []
-# n = 3
+# n = 5
 # for i in range(n):
 #     r.append(L[i])
 # print(r)
 # print(L[0:3])  # 不包括索引3
 # print(L[1:3])
-# print(L[-2:-1])
-# L = list(range(100))
+# print(L[-5:-2])
+# L = list(range(0, 110, 10))
 # print(L)
 # print(L[:])
-
+#
 # L = (0, 1, 2, 3, 4, 5)
 # print(L[1:3])
-
+# print(L[:2])
+# print(L[2:])
+# print(L)
 # def trim(s):
 #     while s[:1] == ' ':
 #         s = s[1:]
@@ -103,7 +105,6 @@
 # print(trim('hello   '))
 # print(trim('  hello'))
 # print(trim('  hello  world   '))
-
 
 # L = ['a', 'b', 'c', 'd', 'e', 'f']
 # print(L[:1])  # 不包括索引1的数
