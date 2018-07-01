@@ -38,9 +38,9 @@
 # list = [3, 4, -1.6, 6, 12, 5, 6, 1, 10]
 # print(findMinAndMax(list))
 
-'''列表生成式'''
 # L = list(range(1, 11, 2))
 # print(L)
+'''列表生成式'''
 
 # list = [x * x for x in range(1, 11) if x % 2 == 0]
 # print(list)
@@ -59,8 +59,67 @@
 # print(L2)
 
 '''一边循环一边计算的机制，称为生成器：generator'''
+
+
 # L = [x * x for x in range(10)]  #list
 # print(L)
-g = (x * x for x in range(10))  # generator
-for n in g:
-    print(n,end=' ')
+# g = (x * x for x in range(1, 10, 2))  # generator
+# for n in g:
+#     print(n, end=' ')
+
+
+# 打印小于100的斐波那契数列
+# def fib1(n):
+#     a, b = 1, 1
+#     while a < n:
+#         print(a, end=' ')
+#         a, b = b, a + b
+#     print('done')
+
+
+# 打印斐波那契数列的前100个数
+# def fib2(max):
+#     n, a, b = 0, 0, 1
+#     while n < max:
+#         print(b, end=' ')
+#         a, b = b, a + b
+#         n += 1
+#     print('done')
+#
+#
+# fib1(100)
+# fib2(100)
+
+# def fib(max):
+#     n, a, b = 0, 0, 1
+#     while n < max:
+#         yield b
+#         a, b = b, a + b
+#         n = n + 1
+#     return 'done'
+#
+# print(fib(10))
+
+# def odd():
+#     print('step1')
+#     yield 1
+#     print('step2')
+#     yield 3
+#     print('step3')
+#     yield 5
+#
+# o = odd()
+# print(next(o))
+# print(next(o))
+# print(next(o))
+
+# def fib(max):
+#     n, a, b = 0, 0, 1
+#     while n < max:
+#         yield b
+#         a, b = b, a + b
+#         n = n + 1
+#     return 'done'
+#
+# for n in fib(6):
+#     print(n)
