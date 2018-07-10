@@ -5,31 +5,33 @@
 #     total += list[i]
 #     i += 1
 # print(total)
-# list = [5, 4, 4, 3, 1, -1, -4, -6]
+# given_list = [5, 4, 4, 3, 1, -2, -3, -5]
 # total = 0
-# for element in list:
+# for element in given_list:
 #     if element <= 0:
 #         break
 #     total += element
 # print(total)
 # list = [5, 4, 4, 3, 1, -1, -4, -6]
 #
+
+# given_list = [5, 4, 4, 3, 1, -2, -3, -5]
 # total = 0
 # i = 0
 # while True:
-#     total += list[i]
+#     total += given_list[i]
 #     i += 1
-#     if list[i] <= 0:
+#     if given_list[i] <= 0:
 #         break
 # print(total)
 
-# a = ['banana', 'apple', 'republic']
+# a = ['banana', 'apple', 'microsoft']
 # for i in range(len(a)):
 #     for j in range(i + 1):
-#         i = 0 -> j = 0
-#         i = 1 -> j = 0, 1
-#         i = 2 -> j = 0, 1, 2
-# print(a[i])
+#         #  i = 0 -> j = 0
+#         # i = 1 -> j = 0, 1
+#         # i = 2 -> j = 0, 1, 2
+#         print(a[i])
 # total = 0
 # for i in range(1, 100):
 # if i % 3 == 0:
@@ -42,7 +44,6 @@
 # given_list = [7, 5, 4, 4, 3, 1, -2, -3, -5, -7]
 # total = 0
 # j = len(given_list) - 1
-# print(j)
 # while given_list[j] < 0:
 #     total += given_list[j]
 #     j -= 1
@@ -100,9 +101,86 @@
 #
 # print(are_you_sad(True, False))
 # print(are_you_sad(True, True))
-def c_greater_than_d_plus_e(c, d, e):
-    return c > d + e
+# def c_greater_than_d_plus_e(c, d, e):
+#     return c > d + e
+#
+#
+# print(c_greater_than_d_plus_e(3, 1, 1, ))
+# print(c_greater_than_d_plus_e(2, 1, 1))
+
+# a = 1
+# b = 2
+# if a < b:
+#     print('a is less than b')
+# else:
+#     print('a is not less than b')
+# print('outside the if block')
+
+# c = 20
+# d = 8
+# if c < d:
+#     print('c is less than d')
+# elif c == d:
+#     print('c is equal to d')
+# elif c > d + 10:
+#     print('c is greater than d by more than 10')
+# else:
+#     print('c is greater than f')
+
+# e = 9
+# f = 8
+# if e < f:
+#     print('e is less than f')
+# else:
+#     if e == f:
+#         print('e is equal to f')
+#     else:
+#         print('e is greater than f')
+# a = ['banana', 'apple', 'microsoft']
+# for element in a:
+#     print(element)
+# b = [20, 10, 5]
+# total = 0
+# for e in b:
+#     total += e
+# print(total)
+
+# a = list(range(1, 5))
+# print(a)
+
+# for i in range(1, 10, 2):
+#     print(i)
+
+# a = list(range(1, 5))
+# print(a)
+
+# total = 0
+# for i in range(1, 5):
+#     total += i
+# print(total)
+
+# total = 0
+# for i in range(1, 8):
+#     if i % 3 == 0:
+#         total += i
+# print(total)
+# total = 0
+# j = 1
+# while j < 5:
+#     total += j
+#     j += 1
+# print(total)
+
+# given_list = [5, 4, 4, 3, 1, -2, -3, -5]
+# total = 0
+# i = 0
+# while i < len(given_list) and given_list[i] > 0:
+#     total += given_list[i]
+#     i += 1
+# print(total)
 
 
-print(c_greater_than_d_plus_e(3, 1, 1, ))
-print(c_greater_than_d_plus_e(2, 1, 1))
+for letter in 'Hello abc':  # 第一个实例
+    if letter == 'o':  # 字母为 o 时跳过输出
+        continue
+    print('当前字母 :', letter)
