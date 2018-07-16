@@ -93,22 +93,40 @@
 # counter.count()
 # print(counter.publicCount)
 # print(counter.__secretCount)
-class Site:
-    def __init__(self, n, u):
-        self.name = n
-        self.__url = u
+# class Site:
+#     def __init__(self, n, u):
+#         self.name = n
+#         self.__url = u
+#
+#     def who(self):
+#         print('name:', self.name)
+#         print('url:', self.__url)
+#
+#     def __foo(self):
+#         print('这是私有方法')
+#
+#     def foo(self):
+#         print('这是公共方法')
+#
+#
+# test = Site('我的博客', 'dyfloveslife.github.io')
+# test.who()
+# test.foo()
 
-    def who(self):
-        print('name:', self.name)
-        print('url:', self.__url)
+import time
 
-    def __foo(self):
-        print('这是私有方法')
-
-    def foo(self):
-        print('这是公共方法')
+num = 1
 
 
-test = Site('我的博客', 'dyfloveslife.github.io')
-test.who()
-test.foo()
+def fun():
+    t1 = time.time()
+    global num  # 加了global后，在函数内部是可以改变外面的全局变量
+    num = 123
+    print('在函数中的num：', num)  # 这里输出内部的num=123
+    t2 = time.time()
+    # print('时间为：{}s'.format(t2 - t1))
+    print(t2 - t1)
+
+
+fun()
+print('全局变量num：', num)
