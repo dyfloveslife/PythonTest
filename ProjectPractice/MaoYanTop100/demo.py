@@ -4,6 +4,7 @@ import json
 from requests.exceptions import RequestException
 from multiprocessing import Pool
 
+
 def get_one_page(url):
     try:
         headers = {
@@ -15,6 +16,7 @@ def get_one_page(url):
         return None
     except RequestException:
         return None
+
 
 def parse_one_page(html):
     pattern = re.compile('<dd>.*?board-index.*?>(.*?)</i>.*?<a.*?title="(.*?)".*?>'
@@ -30,13 +32,15 @@ def parse_one_page(html):
             'title': item[1],
             'src': item[2],
             'time': item[3].strip()[5:],
-            'socre': item[4]+item[5]
+            'socre': item[4] + item[5]
         }
+
 
 def write_to_file(content):
     with open('result2.txt', 'a', encoding='utf-8') as f:
         f.write(json.dumps(content, ensure_ascii=False) + '\n')
         f.close()
+
 
 def main(offset):
     url = 'http://maoyan.com/board/7?offset=' + str(offset)
@@ -49,5 +53,3 @@ def main(offset):
 if __name__ == '__main__':
     pool = Pool()
     pool.map(main, [i * 10 for i in range(10)])
-
-
