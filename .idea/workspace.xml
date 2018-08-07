@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e745a1eb-efba-4c60-88b4-8f2d7c7eff49" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +23,12 @@
     <SUITE FILE_PATH="coverage/Python_test$test_20180705_2.coverage" NAME="test_20180705-2 Coverage Results" MODIFIED="1530860328523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
     <SUITE FILE_PATH="coverage/Python_test$Complex.coverage" NAME="Complex Coverage Results" MODIFIED="1532594281454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/Python_test$58.coverage" NAME="58 Coverage Results" MODIFIED="1533369165348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
+    <SUITE FILE_PATH="coverage/Python_test$YouDaoTranslate.coverage" NAME="YouDaoTranslate Coverage Results" MODIFIED="1533613052239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$demo.coverage" NAME="demo Coverage Results" MODIFIED="1532760781005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice/MaoYanTop100" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180624.coverage" NAME="test_20180624 Coverage Results" MODIFIED="1529890467620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180713.coverage" NAME="test_20180713 Coverage Results" MODIFIED="1531491603679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
     <SUITE FILE_PATH="coverage/Python_test$spider.coverage" NAME="spider Coverage Results" MODIFIED="1530758822357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice/MaoYanTop100" />
-    <SUITE FILE_PATH="coverage/Python_test$Chinese_and_English_translation.coverage" NAME="Chinese_and_English_translation Coverage Results" MODIFIED="1531466621367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
+    <SUITE FILE_PATH="coverage/Python_test$Chinese_and_English_translation.coverage" NAME="Chinese_and_English_translation Coverage Results" MODIFIED="1533611614925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180620.coverage" NAME="test_20180620 Coverage Results" MODIFIED="1529662705420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180702.coverage" NAME="test_20180702 Coverage Results" MODIFIED="1530500945357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$2048.coverage" NAME="2048 Coverage Results" MODIFIED="1530597572831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
@@ -69,7 +71,7 @@
     <SUITE FILE_PATH="coverage/Python_test$test_20180627.coverage" NAME="test_20180627 Coverage Results" MODIFIED="1530416394618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$Download_picture.coverage" NAME="Download_picture Coverage Results" MODIFIED="1532783350108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180705.coverage" NAME="test_20180705 Coverage Results" MODIFIED="1530785062495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
-    <SUITE FILE_PATH="coverage/Python_test$test.coverage" NAME="test Coverage Results" MODIFIED="1533441046369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
+    <SUITE FILE_PATH="coverage/Python_test$test.coverage" NAME="test Coverage Results" MODIFIED="1533610264847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$KugouTop500.coverage" NAME="KugouTop500 Coverage Results" MODIFIED="1533458129125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$using_name.coverage" NAME="using_name Coverage Results" MODIFIED="1531657036816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$TimesOfWords.coverage" NAME="TimesOfWords Coverage Results" MODIFIED="1532679858966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
@@ -89,7 +91,20 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="YouDaoTranslate.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProjectPractice/conf.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180704.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180705.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180705-2.py" />
@@ -125,7 +139,6 @@
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180708.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180709.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180710.py" />
-        <option value="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180713.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180714.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/support.py" />
@@ -161,13 +174,15 @@
         <option value="$PROJECT_DIR$/ProjectPractice/GuaZiErShouChe.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/MaoYanTop100/demo.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/PaTest.py" />
-        <option value="$PROJECT_DIR$/ProjectPractice/test.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/use_urllib.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/QiuShiBaiKe.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/download_mm/download_mm.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/download_mm.py" />
-        <option value="$PROJECT_DIR$/ProjectPractice/KugouTop500.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/DouBanTop250.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/KugouTop500.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/test.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py" />
       </list>
     </option>
   </component>
@@ -177,7 +192,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="720" />
     <option name="y" value="30" />
     <option name="width" value="720" />
@@ -190,25 +205,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_test" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjectPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
@@ -233,7 +230,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ProjectPractice" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -254,7 +251,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DouBanTop250">
+  <component name="RunManager" selected="Python.YouDaoTranslate">
+    <configuration name="Chinese_and_English_translation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="DouBanTop250" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,7 +309,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="QiuShiBaiKe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="YouDaoTranslate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,13 +322,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/QiuShiBaiKe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="download_mm (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,45 +341,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Python_test\ProjectPractice\DouBanTop250.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="download_mm" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPractice/download_mm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Python_test\ProjectPractice\DouBanTop250.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.QiuShiBaiKe" />
-      <item itemvalue="Python.download_mm" />
-      <item itemvalue="Python.download_mm (1)" />
       <item itemvalue="Python.KugouTop500" />
       <item itemvalue="Python.DouBanTop250" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Chinese_and_English_translation" />
+      <item itemvalue="Python.YouDaoTranslate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.YouDaoTranslate" />
+        <item itemvalue="Python.Chinese_and_English_translation" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.DouBanTop250" />
         <item itemvalue="Python.KugouTop500" />
-        <item itemvalue="Python.download_mm (1)" />
-        <item itemvalue="Python.download_mm" />
-        <item itemvalue="Python.QiuShiBaiKe" />
       </list>
     </recent_temporary>
   </component>
@@ -390,55 +387,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="30" width="720" height="870" extended-state="0" />
+    <frame x="-8" y="22" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277776" side_tool="true" weight="0.33592737" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.33868378" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32838285" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.26092714" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40466926" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.328125" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.15442279" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3271523" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3761349" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="7" weight="0.3296875" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.328125" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49722221" visible="true" weight="0.35629138" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2423841" />
-      <window_info anchor="right" id="Database" order="4" weight="0.15442279" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40466926" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50277776" side_tool="true" weight="0.33592737" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50277776" side_tool="true" weight="0.33592737" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.33868378" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32814527" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3296875" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
-    </layout-to-restore>
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.23346303" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40466926" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.328125" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.15442279" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37354085" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32555124" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3296875" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -455,7 +429,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -464,14 +438,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BasicKnowledge/support_print.py" />
-    <entry file="file://$PROJECT_DIR$/BasicKnowledge/abstest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BasicKnowledge/support.py" />
     <entry file="file://$PROJECT_DIR$/BasicKnowledge/fbi.py" />
     <entry file="file://$PROJECT_DIR$/support.py" />
@@ -585,14 +551,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/download.py" />
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/kugouTop500.txt" />
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="39" column="58" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectPractice/BeautifulSoup_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -666,44 +624,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/GanJi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/58.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/MaoYan100.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/test.py" />
     <entry file="file://$PROJECT_DIR$/ProjectPractice/use_urllib.py" />
     <entry file="file://$PROJECT_DIR$/ProjectPractice/QiuShiBaiKe.py" />
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/KugouTop500.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda/Lib/site-packages/urllib3/connection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -711,16 +633,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/豆瓣TOP250.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://D:/Anaconda/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="836" column="27" selection-start-line="836" selection-start-column="27" selection-end-line="836" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/GanJi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/kugouTop500.txt" />
     <entry file="file://$PROJECT_DIR$/ProjectPractice/DouBanTop250.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        <state relative-caret-position="245">
+          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/KugouTop500.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/MaoYan100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/58.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="37" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#1764#1888#1" />
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
