@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e745a1eb-efba-4c60-88b4-8f2d7c7eff49" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,6 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_test$2048__2_.coverage" NAME="2048 (2) Coverage Results" MODIFIED="1530597687726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
+    <SUITE FILE_PATH="coverage/Python_test$Download_Comic.coverage" NAME="Download_Comic Coverage Results" MODIFIED="1533629264769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180622.coverage" NAME="test_20180622 Coverage Results" MODIFIED="1529714050169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$KugouTop500__1_.coverage" NAME="KugouTop500 (1) Coverage Results" MODIFIED="1532767188781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$student_teacher.coverage" NAME="student_teacher Coverage Results" MODIFIED="1532667410868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
@@ -21,7 +21,9 @@
     <SUITE FILE_PATH="coverage/Python_test$test_20180701.coverage" NAME="test_20180701 Coverage Results" MODIFIED="1530498915069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$PaTest.coverage" NAME="PaTest Coverage Results" MODIFIED="1533436503719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180705_2.coverage" NAME="test_20180705-2 Coverage Results" MODIFIED="1530860328523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
+    <SUITE FILE_PATH="coverage/Python_test$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1533634431772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$Complex.coverage" NAME="Complex Coverage Results" MODIFIED="1532594281454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
+    <SUITE FILE_PATH="coverage/Python_test$111111.coverage" NAME="111111 Coverage Results" MODIFIED="1533635576040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$58.coverage" NAME="58 Coverage Results" MODIFIED="1533369165348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$YouDaoTranslate.coverage" NAME="YouDaoTranslate Coverage Results" MODIFIED="1533613052239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$demo.coverage" NAME="demo Coverage Results" MODIFIED="1532760781005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice/MaoYanTop100" />
@@ -41,6 +43,7 @@
     <SUITE FILE_PATH="coverage/Python_test$test_20180625.coverage" NAME="test_20180625 Coverage Results" MODIFIED="1529976625052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$use_with.coverage" NAME="use_with Coverage Results" MODIFIED="1532590253322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/Python_test$conf.coverage" NAME="conf Coverage Results" MODIFIED="1530599082609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
+    <SUITE FILE_PATH="coverage/Python_test$Download_Picture_Man.coverage" NAME="Download_Picture_Man Coverage Results" MODIFIED="1533634922779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$download_mm__1_.coverage" NAME="download_mm (1) Coverage Results" MODIFIED="1533457670742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180804.coverage" NAME="test_20180804 Coverage Results" MODIFIED="1533347101975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180617.coverage" NAME="test_20180617 Coverage Results" MODIFIED="1530438210674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -52,6 +55,7 @@
     <SUITE FILE_PATH="coverage/Python_test$CopyAndDeepCopy.coverage" NAME="CopyAndDeepCopy Coverage Results" MODIFIED="1532951784060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180623.coverage" NAME="test_20180623 Coverage Results" MODIFIED="1529802862867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$download.coverage" NAME="download Coverage Results" MODIFIED="1532677742847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
+    <SUITE FILE_PATH="coverage/Python_test$down_picture.coverage" NAME="down_picture Coverage Results" MODIFIED="1533635447275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$parsefile.coverage" NAME="parsefile Coverage Results" MODIFIED="1532667420615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180715.coverage" NAME="test_20180715 Coverage Results" MODIFIED="1531724192463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180626.coverage" NAME="test_20180626 Coverage Results" MODIFIED="1529982835490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -71,7 +75,7 @@
     <SUITE FILE_PATH="coverage/Python_test$test_20180627.coverage" NAME="test_20180627 Coverage Results" MODIFIED="1530416394618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$Download_picture.coverage" NAME="Download_picture Coverage Results" MODIFIED="1532783350108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180705.coverage" NAME="test_20180705 Coverage Results" MODIFIED="1530785062495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
-    <SUITE FILE_PATH="coverage/Python_test$test.coverage" NAME="test Coverage Results" MODIFIED="1533610264847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
+    <SUITE FILE_PATH="coverage/Python_test$test.coverage" NAME="test Coverage Results" MODIFIED="1533634195448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$KugouTop500.coverage" NAME="KugouTop500 Coverage Results" MODIFIED="1533458129125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$using_name.coverage" NAME="using_name Coverage Results" MODIFIED="1531657036816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$TimesOfWords.coverage" NAME="TimesOfWords Coverage Results" MODIFIED="1532679858966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
@@ -91,20 +95,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="YouDaoTranslate.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,6 +115,7 @@
       <find>base_url</find>
       <find>self._value</find>
       <find>movie</find>
+      <find>src</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,11 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BasicKnowledge/test_20180704.py" />
-        <option value="$PROJECT_DIR$/BasicKnowledge/test_20180705.py" />
-        <option value="$PROJECT_DIR$/BasicKnowledge/test_20180705-2.py" />
-        <option value="$PROJECT_DIR$/BasicKnowledge/test_20180706.py" />
-        <option value="$PROJECT_DIR$/BasicKnowledge/test_20180708.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180709.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180710.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180713.py" />
@@ -180,9 +167,14 @@
         <option value="$PROJECT_DIR$/ProjectPractice/download_mm.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/DouBanTop250.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/KugouTop500.py" />
-        <option value="$PROJECT_DIR$/ProjectPractice/test.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" />
         <option value="$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/Download_Comic.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/test.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/test1.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/Download_Picture_Man.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/down_picture.py" />
+        <option value="$PROJECT_DIR$/ProjectPractice/111111.py" />
       </list>
     </option>
   </component>
@@ -251,8 +243,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.YouDaoTranslate">
-    <configuration name="Chinese_and_English_translation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.111111">
+    <configuration name="111111" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,13 +257,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/111111.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="DouBanTop250" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Download_Picture_Man" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,13 +276,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/DouBanTop250.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/Download_Picture_Man.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="KugouTop500" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="down_picture" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,26 +295,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/KugouTop500.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="YouDaoTranslate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/down_picture.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,20 +320,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPractice/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.KugouTop500" />
-      <item itemvalue="Python.DouBanTop250" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.Chinese_and_English_translation" />
-      <item itemvalue="Python.YouDaoTranslate" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.Download_Picture_Man" />
+      <item itemvalue="Python.down_picture" />
+      <item itemvalue="Python.111111" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.YouDaoTranslate" />
-        <item itemvalue="Python.Chinese_and_English_translation" />
+        <item itemvalue="Python.111111" />
+        <item itemvalue="Python.down_picture" />
+        <item itemvalue="Python.Download_Picture_Man" />
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.DouBanTop250" />
-        <item itemvalue="Python.KugouTop500" />
       </list>
     </recent_temporary>
   </component>
@@ -388,14 +380,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1456" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50277776" side_tool="true" weight="0.33592737" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.33868378" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.23346303" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.25551233" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.40466926" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.328125" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -403,7 +394,7 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37354085" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1686122" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -438,12 +429,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BasicKnowledge/support.py" />
-    <entry file="file://$PROJECT_DIR$/BasicKnowledge/fbi.py" />
-    <entry file="file://$PROJECT_DIR$/support.py" />
-    <entry file="file://$PROJECT_DIR$/BasicKnowledge/fibo.py" />
-    <entry file="file://$PROJECT_DIR$/using_name.py" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/BasicKnowledge/test_20180715.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -655,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/KugouTop500.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-107">
@@ -683,34 +661,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/58.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectPractice/Chinese_and_English_translation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/KugouTop500.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/58.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1310655275/_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="333" column="4" selection-start-line="333" selection-start-column="4" selection-end-line="333" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/test.py" />
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/test1.py" />
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/down_picture.py" />
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/111111.py" />
+    <entry file="file://$PROJECT_DIR$/ProjectPractice/Download_Picture_Man.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjectPractice/YouDaoTranslate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="132">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
