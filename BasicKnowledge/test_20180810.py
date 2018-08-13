@@ -71,3 +71,37 @@
 # print(list(map(f, list1)))
 # print(list(map(lambda x: x * x, list1)))
 
+# class People:
+#
+#     def __init__(self, name, age):
+#         self.name = name
+#         self.age = age
+#
+#     def __str__(self):
+#         return '名字是%s，年龄是%d' % (self.name, self.age)
+#
+#
+# p = People('孙悟空', 9999)
+# print(p)
+
+# class MyClass:
+#     i = 213
+#
+#     def __init__(self):
+#         self.i = 345
+#
+#
+# a = MyClass()
+# print(a.i)
+# print(MyClass.i)
+
+class A(object):
+    def __init__(self):
+        self.x = 'Hello'
+
+    def method_a(self, foo):
+        print(self.x + ' ' + foo)
+
+
+a = A()
+a.method_a('Carol')
