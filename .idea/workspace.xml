@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e745a1eb-efba-4c60-88b4-8f2d7c7eff49" name="Default" comment="" />
+    <list default="true" id="e745a1eb-efba-4c60-88b4-8f2d7c7eff49" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/BasicKnowledge/test_20180815-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKnowledge/test_20180815-2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,21 +106,17 @@
     <favorites_list name="Python_test" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="test_20180815-2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BasicKnowledge/test_20180815-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="e#0#49#1" />
-                <element signature="e#50#293#1" />
                 <element signature="e#296#309#0" />
-                <element signature="e#308#423#1" />
-                <element signature="e#461#678#1" />
                 <element signature="e#678#879#1" />
                 <element signature="e#881#1040#1" />
-                <marker date="1534326791250" expanded="false" signature="54:289" ph="..." />
+                <marker date="1534327836652" expanded="false" signature="55:290" ph="..." />
               </folding>
             </state>
           </provider>
@@ -748,17 +746,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicKnowledge/test_20180815-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <element signature="e#0#49#1" />
-            <element signature="e#50#293#1" />
             <element signature="e#296#309#0" />
-            <element signature="e#308#423#1" />
-            <element signature="e#461#678#1" />
             <element signature="e#678#879#1" />
             <element signature="e#881#1040#1" />
-            <marker date="1534326791250" expanded="false" signature="54:289" ph="..." />
+            <marker date="1534327836652" expanded="false" signature="55:290" ph="..." />
           </folding>
         </state>
       </provider>
