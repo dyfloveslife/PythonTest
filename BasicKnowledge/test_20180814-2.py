@@ -1,13 +1,13 @@
 import logging
 import math
 
-LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
+LOG_FORMAT = '%(levelname)s %(asctime)s - %(name)s - %(message)s'
 # 增加以及初始化logger
 logging.basicConfig(filename='f:\\Python_test\\BasicKnowledge\\test.log',
                     level=logging.DEBUG,
                     format=LOG_FORMAT,
                     filemode='w')
-logger = logging.getLogger()
+logger = logging.getLogger('carol')
 
 
 # 测试logger

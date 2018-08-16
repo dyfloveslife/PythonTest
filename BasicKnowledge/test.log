@@ -1,4 +1,4 @@
-INFO 2018-08-14 17:47:38,483 - quadratic_formula(1, 0, -4)
-DEBUG 2018-08-14 17:47:38,483 - # Compute the discriminant
-DEBUG 2018-08-14 17:47:38,483 - # compute the two roots
-DEBUG 2018-08-14 17:47:38,483 - # return the roots
+INFO 2018-08-16 18:17:43,844 - carol - quadratic_formula(1, 0, -4)
+DEBUG 2018-08-16 18:17:43,844 - carol - # Compute the discriminant
+DEBUG 2018-08-16 18:17:43,844 - carol - # compute the two roots
+DEBUG 2018-08-16 18:17:43,844 - carol - # return the roots
