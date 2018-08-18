@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e745a1eb-efba-4c60-88b4-8f2d7c7eff49" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +19,7 @@
     <SUITE FILE_PATH="coverage/Python_test$test_20180622.coverage" NAME="test_20180622 Coverage Results" MODIFIED="1529714050169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_test$KugouTop500__1_.coverage" NAME="KugouTop500 (1) Coverage Results" MODIFIED="1532767188781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPractice" />
     <SUITE FILE_PATH="coverage/Python_test$Unittests_in_test_circles_py.coverage" NAME="Unittests in test_circles.py Coverage Results" MODIFIED="1534388433233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
+    <SUITE FILE_PATH="coverage/Python_test$test_20180818.coverage" NAME="test_20180818 Coverage Results" MODIFIED="1534586542457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
     <SUITE FILE_PATH="coverage/Python_test$student_teacher.coverage" NAME="student_teacher Coverage Results" MODIFIED="1532667410868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/Python_test$support.coverage" NAME="support Coverage Results" MODIFIED="1531654886575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicKnowledge" />
     <SUITE FILE_PATH="coverage/Python_test$test_20180701.coverage" NAME="test_20180701 Coverage Results" MODIFIED="1530498915069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -111,30 +113,7 @@
     <favorites_list name="Python_test" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test_20180817.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BasicKnowledge/test_20180817.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-              <folding>
-                <element signature="e#62#122#0" />
-                <element signature="e#62#122#0" />
-                <element signature="e#62#122#0" />
-                <element signature="e#62#122#0" />
-                <element signature="e#62#122#0" />
-                <element signature="e#1591#1631#0" />
-                <element signature="e#1591#1631#0" />
-                <element signature="e#1591#1631#0" />
-                <element signature="e#1628#1652#0" />
-                <element signature="e#1630#1654#0" />
-                <element signature="e#1630#1654#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -165,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice/use_with.py" />
         <option value="$PROJECT_DIR$/Practice/use_try_except.py" />
         <option value="$PROJECT_DIR$/Practice/parsefile.py" />
         <option value="$PROJECT_DIR$/Practice/MinutesToHours.py" />
@@ -216,6 +194,7 @@
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180814-2.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180816.py" />
         <option value="$PROJECT_DIR$/BasicKnowledge/test_20180817.py" />
+        <option value="$PROJECT_DIR$/BasicKnowledge/test_20180818.py" />
       </list>
     </option>
   </component>
@@ -284,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_20180817">
+  <component name="RunManager" selected="Python.test_20180818">
     <configuration name="test_20180814-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -361,34 +340,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in test_circles.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="test_20180818" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicKnowledge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/BasicKnowledge/test_circles.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicKnowledge/test_20180818.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
       <item itemvalue="Python.test_20180816" />
-      <item itemvalue="Python tests.Unittests in test_circles.py" />
       <item itemvalue="Python.test_20180814-2" />
       <item itemvalue="Python.test_20180816-2" />
       <item itemvalue="Python.test_20180817" />
+      <item itemvalue="Python.test_20180818" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_20180818" />
         <item itemvalue="Python.test_20180817" />
         <item itemvalue="Python.test_20180816" />
         <item itemvalue="Python.test_20180814-2" />
         <item itemvalue="Python.test_20180816-2" />
-        <item itemvalue="Python tests.Unittests in test_circles.py" />
       </list>
     </recent_temporary>
   </component>
@@ -421,15 +405,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="30" width="720" height="870" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32980132" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50277776" side_tool="true" weight="0.33592737" />
+      <window_info anchor="right" x="0" y="0" width="130" height="670" id="Documentation" side_tool="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.33868378" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.2807947" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40466926" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3271523" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.38410595" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41324502" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.32102272" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.15442279" />
@@ -472,20 +456,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/BeautifulSoup_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/result2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectPractice/MaoYanTop100/result.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1602">
@@ -758,20 +728,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicKnowledge/test_20180817.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="369">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1310655275/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2288">
+          <caret line="7266" column="27" lean-forward="true" selection-start-line="7266" selection-start-column="27" selection-end-line="7266" selection-end-column="27" />
           <folding>
-            <element signature="e#62#122#0" />
-            <element signature="e#62#122#0" />
-            <element signature="e#62#122#0" />
-            <element signature="e#62#122#0" />
-            <element signature="e#62#122#0" />
-            <element signature="e#1591#1631#0" />
-            <element signature="e#1591#1631#0" />
-            <element signature="e#1591#1631#0" />
-            <element signature="e#1628#1652#0" />
-            <element signature="e#1630#1654#0" />
-            <element signature="e#1630#1654#0" />
+            <element signature="e#158#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicKnowledge/test_20180818.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
