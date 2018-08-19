@@ -2,6 +2,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 from bs4 import BeautifulSoup
+
 # plyload = {'key1': 'value1', 'key2': ['value2', 'value3']}
 # r = requests.post('http://httpbin.org/post', data=plyload)
 #
@@ -73,4 +74,9 @@ and they lived at the bottom of a well.</p>
 soup = BeautifulSoup(html_doc, 'lxml')
 # print(soup.title)
 # print(soup.body.b)
-# print(soup.find_all('a'))
+# links = soup.find_all('a')
+# print(links)
+# print(soup.find_all(['a', 'b']))
+# print(soup.find_all('p', 'title'))
+# print(soup.find_all(attrs={'data-foo':'value'}))
+print(soup.find_all('a', class_='sister'))
