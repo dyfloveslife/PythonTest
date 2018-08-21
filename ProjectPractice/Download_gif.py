@@ -30,8 +30,11 @@ def download_gif(url):
     with open(url.split('/')[-1], 'wb') as file:
         file.write(r.content)
 
+
 if __name__ == '__main__':
     urls = ['http://gifcc.com/forum-47-{}.html'.format(str(i)) for i in range(1)]
     for url in urls:
-        get_url(url)
-        time.sleep(1)
+        # get_url(url)
+        # time.sleep(1)
+        r = requests.get(url)
+        print(r.status_code)
