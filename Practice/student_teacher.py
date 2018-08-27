@@ -32,8 +32,8 @@ class Student(Person):
 
 class Teacher(Person):
     """
-           return Teacher Object,use string list as arguments
-           """
+    return Teacher Object,use string list as arguments
+    """
 
     def __init__(self, name, papers):
         Person.__init__(self, name)

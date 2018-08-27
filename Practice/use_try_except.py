@@ -1,5 +1,4 @@
 def get_number():
-    "Return a float number"
     number = float(input('Enter a float number:'))
     return number
 
