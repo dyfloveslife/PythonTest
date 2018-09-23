@@ -1,9 +1,11 @@
 import tensorflow as tf
 import numpy as np
+import matplotlib.pyplot as plt
 
 """
 Build a neural network.
 """
+
 
 def add_layer(inputs, in_size, out_size, activation_function=None):
     Weights = tf.Variable(tf.random_normal([in_size, out_size]))
@@ -32,7 +34,21 @@ init = tf.global_variables_initializer()
 sess = tf.Session()
 sess.run(init)
 
-for i in range(100):
+fig = plt.figure()
+ax = fig.add_subplot(1, 1, 1)
+ax.scatter(x_data, y_data)
+plt.ion()
+
+for i in range(1000):
     sess.run(train_step, feed_dict={xs: x_data, ys: y_data})
     if i % 50:
-        print(sess.run(loss, feed_dict={xs: x_data, ys: y_data}))
+        # print(sess.run(loss, feed_dict={xs: x_data, ys: y_data}))
+        try:
+            ax.lines.remove(lines[0])
+        except Exception:
+            prediction_value = sess.run(prediction, feed_dict={xs: x_data})
+            lines = ax.plot(x_data, prediction_value, 'r-', lw=5)
+            plt.pause(1)
+
+plt.ioff()
+plt.show()
