@@ -41,7 +41,7 @@ plt.ion()
 
 for i in range(1000):
     sess.run(train_step, feed_dict={xs: x_data, ys: y_data})
-    if i % 50:
+    if i % 50 == 0:
         # print(sess.run(loss, feed_dict={xs: x_data, ys: y_data}))
         try:
             ax.lines.remove(lines[0])
